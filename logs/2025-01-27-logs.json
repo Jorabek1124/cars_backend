@@ -1,0 +1,416 @@
+[31merror[0m: [31mLogger error[0m {"timestamp":"2025-01-27 11:22:21"}
+[33mwarn[0m: [33mLogger warn[0m {"timestamp":"2025-01-27 11:22:21"}
+[32minfo[0m: [32mLogger info[0m {"timestamp":"2025-01-27 11:22:21"}
+[31merror[0m: [31mLogger error[0m {"timestamp":"2025-01-27 11:22:22"}
+[33mwarn[0m: [33mLogger warn[0m {"timestamp":"2025-01-27 11:22:22"}
+[32minfo[0m: [32mLogger info[0m {"timestamp":"2025-01-27 11:22:22"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:28:25.736Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:28:25.738Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:28:25.738Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:29:56.391Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:29:56.392Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:29:56.393Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:30:49.439Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:30:49.441Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:30:49.442Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:30:52.692Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:30:52.694Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:30:52.695Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:40:49.539Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:40:49.541Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:40:49.541Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:40:51.462Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:40:51.464Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:40:51.464Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:42:33.878Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:42:33.879Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:42:33.880Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:42:42.533Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:42:42.535Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:42:42.536Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:43:27.608Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:43:27.609Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:43:27.610Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:47:42.315Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:47:42.315Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:47:42.316Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:48:33.450Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:48:33.451Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:48:33.452Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:50:49.594Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:50:49.595Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:50:49.595Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:50:51.496Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:50:51.497Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:50:51.498Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:53:26.475Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:53:26.476Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:53:26.477Z"}
+{"Email":"biznesmen1124@gmail.com","UserId":"6796211cbe977f7c7ec64b74","Username":"Jorabek","action":"register","level":"info","message":"Foydalanuvchi topildi: {\n  _id: new ObjectId('6796211cbe977f7c7ec64b74'),\n  username: 'Jorabek',\n  email: 'biznesmen1124@gmail.com',\n  password: '$2a$12$JYsuF7pSlBz7KCrZTNOrB.I/agF7ol10L3d.kgdSW6m5rNZbM0K9y',\n  role: 'user',\n  verification_code: 7831,\n  isverified: true,\n  __v: 0\n}","timestamp":"2025-01-27T06:54:02.949Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:54:33.928Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:54:33.929Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:54:33.929Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:55:18.250Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:55:18.251Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:55:18.251Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:55:40.816Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:55:40.817Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:55:40.818Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:56:58.842Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:56:58.844Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:56:58.844Z"}
+{"action":"register","email":"nurjanovjorabek1994@gmail.com","level":"info","message":"Foydalanuvchi topildi:","timestamp":"2025-01-27T06:57:10.582Z","username":"Jorabek1124"}
+{"action":"register","email":"nurjanovjorabek1994@gmail.com","level":"info","message":"Foydalanuvchi topildi:","timestamp":"2025-01-27T06:57:47.614Z","username":"Jorabek1124"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T06:58:48.408Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T06:58:48.410Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T06:58:48.411Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:00:49.592Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:00:49.593Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:00:49.594Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:00:50.961Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:00:50.962Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:00:50.963Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:01:05.122Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:01:05.125Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:01:05.125Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:01:31.827Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:01:31.828Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:01:31.829Z"}
+{"action":"REGISTER","email":"nurjanovjorabek1124@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:01:36.529Z","username":"Jorabek1124"}
+{"action":"REGISTER","email":"nurjanovjorabek1994@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:01:44.695Z","username":"Jorabek1124"}
+{"action":"REGISTER","email":"nurjanovjorabek1994@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:01:59.305Z","username":"Jorabek1124"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:02:47.808Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:02:47.809Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:02:47.809Z"}
+{"action":"register","email":"nurjanovjorabek1994@gmail.com","level":"info","message":"Foydalanuvchi topildi:","timestamp":"2025-01-27T07:02:50.977Z","username":"Jorabek1124"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:03:04.300Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:03:04.301Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:03:04.301Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:03:20.136Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:03:20.137Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:03:20.137Z"}
+{"action":"REGISTER","email":"nurjanovjorabek1994@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:03:22.563Z","userId":"67972e465f1954cffe2b66db","username":"Jorabek1124"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:03:45.107Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:03:45.108Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:03:45.109Z"}
+{"action":"REGISTER","email":"nurjanovjorabek14@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:03:47.529Z","username":"Jorabek1124"}
+{"action":"REGISTER","email":"nurjanovjorabek1994@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:04:01.436Z","username":"Jorabek1124"}
+{"action":"REGISTER","email":"nurjanovjorabek100@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:04:08.339Z","username":"Jorabek1124"}
+{"action":"REGISTER","email":"nurjanovjorabek100@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:04:16.473Z","username":"Jorabek1122"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:04:59.577Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:04:59.579Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:04:59.580Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:08:41.664Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:08:41.666Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:08:41.667Z"}
+{"action":"REGISTER","email":"nurjanovjorabek100@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:08:46.221Z","username":"Jorabek1122"}
+{"action":"REGISTER","email":"nurjanovjorabek200@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:08:54.797Z","username":"Jorabek1122"}
+{"action":"REGISTER","email":"nurjanovjorabek200@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:09:02.766Z","username":"Jorabek22"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:10:49.625Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:10:49.627Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:10:49.627Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:10:51.144Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:10:51.146Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:10:51.146Z"}
+{"action":"REGISTER","email":"nurjanovjorabek200@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:12:48.675Z","username":"Jorabek22"}
+{"action":"REGISTER","email":"nurjanovjorabek400@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:12:54.718Z","username":"Jorabek22"}
+{"action":"REGISTER","email":"nurjanovjorabek400@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:13:01.643Z","username":"Jorabek2244"}
+{"action":"REGISTER","email":"nurjanovjorabek44@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:15:20.282Z","username":"Jorabek2244"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:16:54.109Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:16:54.110Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:16:54.111Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:17:42.494Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:17:42.495Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:17:42.496Z"}
+{"action":"REGISTER","email":"nurjanovjorabek22@gmail.com","level":"info","message":"Yangi foydalanuvchi ro'yxatdan o'tdi null","status":"success","timestamp":"2025-01-27T07:17:55.093Z","username":"Jorabek2222"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:18:28.593Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:18:28.595Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:18:28.595Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:19:43.359Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:19:43.360Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:19:43.361Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:20:33.986Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:20:33.987Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:20:33.987Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:20:36.988Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:20:36.989Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:20:36.990Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:20:49.468Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:20:49.470Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:20:49.471Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:20:51.006Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:20:51.007Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:20:51.008Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:21:02.283Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:21:02.284Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:21:02.285Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:21:24.323Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:21:24.324Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:21:24.324Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:23:41.127Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:23:41.128Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:23:41.128Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:24:04.693Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:24:04.694Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:24:04.695Z"}
+{"action":"REGISTER","date":"2025-01-27T07:24:08.308Z","details":{"ip":"::1","registrationTime":"27.01.2025, 12:24:08","userAgent":"PostmanRuntime/7.43.0","verificationSent":true},"email":"nurjanovjorabek1994@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek1994 (nurjanovjorabek1994@gmail.com) ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:24:08.402Z","userId":"67973498fd02d18bae8601d1","username":"Jorabek1994"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:25:06.429Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:25:06.430Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:25:06.431Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:25:35.906Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:25:35.907Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:25:35.907Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:25:38.100Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:25:38.102Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:25:38.102Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:25:53.817Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:25:53.818Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:25:53.819Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:26:52.797Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:26:52.798Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:26:52.798Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:27:27.817Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:27:27.818Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:27:27.818Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:27:58.873Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:27:58.874Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:27:58.875Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:28:41.426Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:28:41.427Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:28:41.428Z"}
+{"action":"REGISTER","date":"2025-01-27T07:28:48.544Z","email":"nurjanovjorabekss1s9ss94@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek1144ssasa (nurjanovjorabekss1s9ss94@gmail.com) ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:28:48.545Z","username":"Jorabek1144ssasa"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:29:28.858Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:29:28.859Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:29:28.860Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:30:01.759Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:30:01.760Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:30:01.760Z"}
+{"action":"REGISTER","date":"2025-01-27T07:30:14.926Z","email":"nurjanovjorabekss1s9sss94@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek1144sssasa login qilishga urunadi (nurjanovjorabekss1s9sss94@gmail.com) ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:30:14.928Z","username":"Jorabek1144sssasa"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:30:49.490Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:30:49.491Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:30:49.492Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:30:51.065Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:30:51.066Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:30:51.067Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:31:06.464Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:31:06.465Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:31:06.466Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:31:12.313Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:31:12.314Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:31:12.315Z"}
+{"action":"REGISTER","date":"2025-01-27T07:31:15.218Z","email":"nurjanovjorabekss1s9ssss94@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek1144ssssasa login\n       qilishga urundi va  (nurjanovjorabekss1s9ssss94@gmail.com) pochta bilan ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:31:15.218Z","username":"Jorabek1144ssssasa"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:31:33.762Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:31:33.763Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:31:33.764Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:32:19.953Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:32:19.954Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:32:19.954Z"}
+{"action":"REGISTER","date":"2025-01-27T07:32:34.334Z","email":"nurjanovjorabek94@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek1122 login\n       qilishga urundi va  (nurjanovjorabek94@gmail.com) pochta bilan ro'yxatdan o'tdi","status":"success","timestamp":"2025-01-27T07:32:34.336Z","username":"Jorabek1122"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:33:28.729Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:33:28.730Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:33:28.731Z"}
+{"action":"REGISTER","date":"2025-01-27T07:33:58.319Z","email":"nurjanovjorabek94@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek1122 login\n       qilishga urundi va  \n       (nurjanovjorabek94@gmail.com) pochta bilan ro'yxatdan \n       o'tdi","status":"success","timestamp":"2025-01-27T07:33:58.320Z","username":"Jorabek1122"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:36:33.863Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:36:33.864Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:36:33.865Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:38:58.593Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:38:58.594Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:38:58.595Z"}
+{"action":"REGISTER","date":"2025-01-27T07:40:15.397Z","email":"nurjanovjorabek94@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek1122 login\n       qilishga urundi va  \n       (nurjanovjorabek94@gmail.com) pochta bilan ro'yxatdan \n       o'tdi","status":"success","timestamp":"2025-01-27T07:40:15.399Z","username":"Jorabek1122"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:40:49.538Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:40:49.539Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:40:49.540Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:40:51.229Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:40:51.230Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:40:51.230Z"}
+{"action":"VERIFY_USER_NOT_FOUND","date":"2025-01-27T07:40:54.782Z","details":{"attemptTime":"27.01.2025, 12:40:54","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"email":"nurjanovjorabek94@gmail.com","level":"warn","message":"Verifikatsiya: nurjanovjorabek94@gmail.com - foydalanuvchi topilmadi","status":"failed","timestamp":"2025-01-27T07:40:54.799Z"}
+{"action":"REGISTER","date":"2025-01-27T07:42:12.370Z","email":"biznesmen1124@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek login\n       qilishga urundi va  \n       (biznesmen1124@gmail.com) pochta bilan ro'yxatdan \n       o'tdi","status":"success","timestamp":"2025-01-27T07:42:12.371Z","username":"Jorabek"}
+{"action":"VERIFY_USER_NOT_FOUND","date":"2025-01-27T07:42:49.747Z","details":{"attemptTime":"27.01.2025, 12:42:49","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"warn","message":"Verifikatsiya: biznesmen1124@gmail.com - foydalanuvchi topilmadi","status":"failed","timestamp":"2025-01-27T07:42:49.749Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:44:25.126Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:44:25.127Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:44:25.128Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:45:52.134Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:45:52.135Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:45:52.135Z"}
+{"action":"REGISTER","date":"2025-01-27T07:46:04.185Z","email":"biznesmen1124@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek login\n       qilishga urundi va  \n       (biznesmen1124@gmail.com) pochta bilan ro'yxatdan \n       o'tdi","status":"success","timestamp":"2025-01-27T07:46:04.187Z","username":"Jorabek"}
+{"action":"VERIFY_SUCCESS","date":"2025-01-27T07:46:35.650Z","details":{"ip":"::1","userAgent":"PostmanRuntime/7.43.0","verificationTime":"27.01.2025, 12:46:35"},"email":"biznesmen1124@gmail.com","level":"info","message":"Foydalanuvchi: Jorabek (biznesmen1124@gmail.com) tasdiqlandi","status":"success","timestamp":"2025-01-27T07:46:35.669Z","userId":"679739bb30aca022842ea6a3","username":"Jorabek"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:48:14.587Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:48:14.588Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:48:14.589Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:48:15.925Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:48:15.926Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:48:15.927Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:48:29.435Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:48:29.436Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:48:29.437Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:50:27.189Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:50:27.190Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:50:27.190Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:50:49.541Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:50:49.542Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:50:49.543Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:50:51.181Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:50:51.182Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:50:51.182Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:54:18.914Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:54:18.915Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:54:18.916Z"}
+{"action":"REGISTER","date":"2025-01-27T07:54:48.930Z","email":"biznesmen1124@gmail.com","level":"info","message":"Yangi foydalanuvchi: Jorabek login\n       qilishga urundi va  \n       (biznesmen1124@gmail.com) pochtaga tasdiqlash kodi jo'natildi","status":"success","timestamp":"2025-01-27T07:54:48.931Z","username":"Jorabek"}
+{"action":"VERIFY_SUCCESS","date":"2025-01-27T07:55:13.509Z","details":{"ip":"::1","userAgent":"PostmanRuntime/7.43.0","verificationTime":"27.01.2025, 12:55:13"},"email":"biznesmen1124@gmail.com","level":"info","message":"Foydalanuvchi: Jorabek (biznesmen1124@gmail.com) tasdiqlandi","status":"success","timestamp":"2025-01-27T07:55:13.539Z","userId":"67973bc8a924df00015998e1","username":"Jorabek"}
+{"action":"LOGIN_SUCCESS","date":"2025-01-27T07:55:28.169Z","details":{"ip":"::1","loginTime":"27.01.2025, 12:55:28","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"Muvaffaqiyatli login: Jorabek","role":"user","status":"success","timestamp":"2025-01-27T07:55:28.170Z","userId":"67973bc8a924df00015998e1","username":"Jorabek"}
+{"action":"LOGIN_ERROR","date":"2025-01-27T07:56:11.620Z","details":{"errorStack":"Error: Foydalanuvchi tasdiqlanmagan\n    at BaseError.BadRequest (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\utils\\base_error.js:45:12)\n    at login (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:301:23)","errorTime":"27.01.2025, 12:56:11","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","error":"Foydalanuvchi tasdiqlanmagan","level":"error","message":"Login xatolik: biznesmen1124@gmail.com","status":"failed","timestamp":"2025-01-27T07:56:11.622Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:57:25.954Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:57:25.956Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:57:25.957Z"}
+{"action":"LOGIN_ERROR","date":"2025-01-27T07:57:29.612Z","details":{"errorStack":"Error: Foydalanuvchi tasdiqlanmagan\n    at BaseError.BadRequest (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\utils\\base_error.js:45:12)\n    at login (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:301:23)","errorTime":"27.01.2025, 12:57:29","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","error":"Foydalanuvchi tasdiqlanmagan","level":"error","message":"Login qilishda xatolik username yoki password noto'g'ri: biznesmen1124@gmail.com","status":"failed","timestamp":"2025-01-27T07:57:29.629Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T07:58:48.267Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T07:58:48.268Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T07:58:48.269Z"}
+{"action":"LOGIN_ERROR","date":"2025-01-27T07:58:51.752Z","details":{"errorStack":"Error: Foydalanuvchi tasdiqlanmagan\n    at BaseError.BadRequest (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\utils\\base_error.js:45:12)\n    at login (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:301:23)","errorTime":"27.01.2025, 12:58:51","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","error":"Foydalanuvchi tasdiqlanmagan","level":"error","message":"Login qilishda xatolik username yoki password noto'g'ri kiritildi: Sizning ro'yxatdan o'tgan email pochtangiz: biznesmen1124@gmail.com","status":"failed","timestamp":"2025-01-27T07:58:51.771Z"}
+{"action":"LOGIN_SUCCESS","date":"2025-01-27T07:59:14.469Z","details":{"ip":"::1","loginTime":"27.01.2025, 12:59:14","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"Muvaffaqiyatli login: Jorabek","role":"user","status":"success","timestamp":"2025-01-27T07:59:14.470Z","userId":"67973bc8a924df00015998e1","username":"Jorabek"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:00:01.029Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:00:01.030Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:00:01.030Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:00:42.293Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:00:42.294Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:00:42.295Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:00:49.517Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:00:49.518Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:00:49.518Z"}
+{"action":"LOGOUT_ERROR","date":"2025-01-27T08:00:49.971Z","details":{"errorStack":"ReferenceError: userId is not defined\n    at logout (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:327:15)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:47:12)","errorTime":"27.01.2025, 13:00:49","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"error":"userId is not defined","level":"error","message":"Tizimdan chiqishda xatolik","status":"failed","timestamp":"2025-01-27T08:00:49.996Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:00:51.387Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:00:51.388Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:00:51.389Z"}
+{"action":"LOGOUT_ERROR","date":"2025-01-27T08:01:07.773Z","details":{"errorStack":"ReferenceError: userId is not defined\n    at logout (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:327:15)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:47:12)","errorTime":"27.01.2025, 13:01:07","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"error":"userId is not defined","level":"error","message":"Tizimdan chiqishda xatolik","status":"failed","timestamp":"2025-01-27T08:01:07.801Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:01:32.600Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:01:32.601Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:01:32.601Z"}
+{"action":"LOGOUT_ERROR","date":"2025-01-27T08:01:35.090Z","details":{"errorStack":"ReferenceError: username is not defined\n    at logout (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:328:17)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:47:12)","errorTime":"27.01.2025, 13:01:35","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"error":"username is not defined","level":"error","message":"Tizimdan chiqishda xatolik","status":"failed","timestamp":"2025-01-27T08:01:35.109Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:02:18.515Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:02:18.516Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:02:18.517Z"}
+{"action":"LOGOUT_ERROR","date":"2025-01-27T08:02:19.860Z","details":{"errorStack":"ReferenceError: foundedUser is not defined\n    at logout (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:328:17)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:47:12)","errorTime":"27.01.2025, 13:02:19","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"error":"foundedUser is not defined","level":"error","message":"Tizimdan chiqishda xatolik","status":"failed","timestamp":"2025-01-27T08:02:19.879Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:03:33.448Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:03:33.449Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:03:33.450Z"}
+{"action":"LOGOUT","date":"2025-01-27T08:03:35.327Z","details":{"ip":"::1","logoutTime":"27.01.2025, 13:03:35","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"Foydalanuvchi tizimdan chiqdi","status":"success","timestamp":"2025-01-27T08:03:35.346Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:04:17.477Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:04:17.478Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:04:17.479Z"}
+{"action":"LOGOUT_ERROR","date":"2025-01-27T08:04:23.404Z","details":{"errorStack":"TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.\n    at logout (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:324:12)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:47:12)","errorTime":"27.01.2025, 13:04:23","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"error":"Cannot destructure property 'username' of 'req.user' as it is undefined.","level":"error","message":"Tizimdan chiqishda xatolik","status":"failed","timestamp":"2025-01-27T08:04:23.423Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:10:49.644Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:10:49.646Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:10:49.647Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:10:51.007Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:10:51.008Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:10:51.008Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:20:49.616Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:20:49.618Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:20:49.618Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:20:51.139Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:20:51.140Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:20:51.141Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:30:49.646Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:30:49.647Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:30:49.647Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:30:51.643Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:30:51.644Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:30:51.645Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:40:49.659Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:40:49.661Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:40:49.662Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:40:51.394Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:40:51.396Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:40:51.396Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:50:49.639Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:50:49.640Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:50:49.641Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T08:50:51.037Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T08:50:51.037Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T08:50:51.038Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:00:49.632Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:00:49.633Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:00:49.633Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:00:51.343Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:00:51.344Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:00:51.344Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:13:04.877Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:13:04.878Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:13:04.879Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:13:09.440Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:13:09.442Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:13:09.443Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:13:50.647Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:13:50.648Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:13:50.648Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:14:21.883Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:14:21.884Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:14:21.885Z"}
+{"action":"LOGOUT_ERROR","date":"2025-01-27T09:14:23.287Z","details":{"errorStack":"TypeError: Cannot destructure property 'username' of 'req.user' as it is undefined.\n    at logout (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\controller\\auth.controller.js:324:12)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\acer\\Desktop\\nodeJS\\homework_test\\node_modules\\express\\lib\\router\\index.js:47:12)","errorTime":"27.01.2025, 14:14:23","ip":"::1","userAgent":"PostmanRuntime/7.43.0"},"error":"Cannot destructure property 'username' of 'req.user' as it is undefined.","level":"error","message":"Tizimdan chiqishda xatolik","status":"failed","timestamp":"2025-01-27T09:14:23.310Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:14:41.649Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:14:41.650Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:14:41.651Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:15:55.931Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:15:55.933Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:15:55.933Z"}
+{"action":"LOGOUT","date":"2025-01-27T09:15:58.467Z","details":{"ip":"::1","logoutTime":"27.01.2025, 14:15:58","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"Foydalanuvchi tizimdan chiqdi","status":"success","timestamp":"2025-01-27T09:15:58.485Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:17:10.484Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:17:10.485Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:17:10.486Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:17:16.053Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:17:16.055Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:17:16.056Z"}
+{"action":"LOGOUT","date":"2025-01-27T09:17:34.677Z","details":{"ip":"::1","logoutTime":"27.01.2025, 14:17:34","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"undefined Foydalanuvchi tizimdan chiqdi","status":"success","timestamp":"2025-01-27T09:17:34.706Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:18:23.366Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:18:23.368Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:18:23.369Z"}
+{"action":"LOGOUT","date":"2025-01-27T09:18:25.403Z","details":{"ip":"::1","logoutTime":"27.01.2025, 14:18:25","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"undefined Foydalanuvchi tizimdan chiqdi","status":"success","timestamp":"2025-01-27T09:18:25.421Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:19:09.750Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:19:09.751Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:19:09.751Z"}
+{"action":"LOGOUT","date":"2025-01-27T09:19:13.375Z","details":{"ip":"::1","logoutTime":"27.01.2025, 14:19:13","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"undefined (biznesmen1124@gmail.com) Foydalanuvchi tizimdan chiqdi","status":"success","timestamp":"2025-01-27T09:19:13.395Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:20:29.809Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:20:29.810Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:20:29.810Z"}
+{"action":"LOGOUT","date":"2025-01-27T09:20:32.266Z","details":{"ip":"::1","logoutTime":"27.01.2025, 14:20:32","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"undefined (biznesmen1124@gmail.com) Foydalanuvchi tizimdan chiqdi","status":"success","timestamp":"2025-01-27T09:20:32.284Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:21:39.174Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:21:39.175Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:21:39.175Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:23:03.875Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:23:03.876Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:23:03.877Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:23:05.725Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:23:05.727Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:23:05.727Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:23:22.795Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:23:22.797Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:23:22.797Z"}
+{"action":"LOGOUT","date":"2025-01-27T09:23:37.280Z","details":{"ip":"::1","logoutTime":"27.01.2025, 14:23:37","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"undefined (biznesmen1124@gmail.com) Foydalanuvchi tizimdan chiqdi","status":"success","timestamp":"2025-01-27T09:23:37.303Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:24:42.701Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:24:42.702Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:24:42.702Z"}
+{"action":"LOGOUT","date":"2025-01-27T09:24:44.727Z","details":{"ip":"::1","logoutTime":"27.01.2025, 14:24:44","userAgent":"PostmanRuntime/7.43.0"},"email":"biznesmen1124@gmail.com","level":"info","message":"undefined (biznesmen1124@gmail.com) Foydalanuvchi tizimdan chiqdi","status":"success","timestamp":"2025-01-27T09:24:44.746Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T09:26:03.736Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T09:26:03.737Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T09:26:03.738Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T14:59:05.233Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T14:59:05.234Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T14:59:05.235Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T14:59:35.633Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T14:59:35.635Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T14:59:35.637Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T14:59:53.606Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T14:59:53.607Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T14:59:53.608Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T15:00:07.600Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T15:00:07.601Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T15:00:07.602Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T15:00:25.767Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T15:00:25.768Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T15:00:25.769Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T15:00:36.322Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T15:00:36.323Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T15:00:36.324Z"}
+{"level":"error","message":"Logger error","timestamp":"2025-01-27T15:00:49.015Z"}
+{"level":"warn","message":"Logger warn","timestamp":"2025-01-27T15:00:49.016Z"}
+{"level":"info","message":"Logger info","timestamp":"2025-01-27T15:00:49.017Z"}
